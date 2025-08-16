@@ -1,13 +1,5 @@
 let listaDeNumerosSorteados = [];
-<<<<<<< HEAD
-<<<<<<< HEAD
 let numeroLimite = 100;
-=======
-let numeroLimite = 10;
->>>>>>> parent of 0115844 (origin)
-=======
-let numeroLimite = 10;
->>>>>>> parent of 0115844 (origin)
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
